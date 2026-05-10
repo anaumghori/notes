@@ -2,6 +2,7 @@
 
 [DiLoCoX: A Low-Communication Large-Scale Training Framework for Decentralized Cluster](https://arxiv.org/abs/2506.21263)  
 [Efficient Training on Multiple Consumer GPUs with RoundPipe](https://arxiv.org/abs/2604.27085)  
+[Folding Tensor and Sequence Parallelism for Memory-Efficient Transformer Training & Inference](https://arxiv.org/abs/2604.26294)  
 
 ## In Progress
 [Scalable Training of Mixture-of-Experts Models with Megatron Core](https://arxiv.org/abs/2603.07685)  
